@@ -8,3 +8,4 @@
 [Material Design for Enterprise Apps](http://bradfrost.com/blog/post/atomic-web-design/)  
 [Increasing Patient Engagement Using Behaviour Design](info.macadamian.com/rs/605-IMH-940/images/Increasing-Patient-Engagement-Using-Behavior-Design.pdf)
 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
+[Everything You Should Know About The Stock Market](https://www.huffingtonpost.com/entry/stock-market-matters_us_5a7b4964e4b044b38218a49e?ncid=inblnkushpmg00000009)
