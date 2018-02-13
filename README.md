@@ -10,3 +10,4 @@
 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 [Everything You Should Know About The Stock Market](https://www.huffingtonpost.com/entry/stock-market-matters_us_5a7b4964e4b044b38218a49e?ncid=inblnkushpmg00000009)
 [Developing for Android vs. iOS: Navigation Patterns](https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c)
+[What Went Wrong In Hawaii, Human Error? Nope, Bad Design](https://www.fastcodesign.com/90157153/don-norman-what-went-wrong-in-hawaii-human-error-nope-bad-design)
