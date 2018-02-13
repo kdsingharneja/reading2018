@@ -11,3 +11,4 @@
 [Everything You Should Know About The Stock Market](https://www.huffingtonpost.com/entry/stock-market-matters_us_5a7b4964e4b044b38218a49e?ncid=inblnkushpmg00000009)
 [Developing for Android vs. iOS: Navigation Patterns](https://medium.com/@jrejaud/developing-for-android-vs-ios-navigation-patterns-c0e11286562c)
 [What Went Wrong In Hawaii, Human Error? Nope, Bad Design](https://www.fastcodesign.com/90157153/don-norman-what-went-wrong-in-hawaii-human-error-nope-bad-design)
+[PERFECT IS THE ENEMY OF GOOD: FIGHTING PERFECTIONISM IN UX DESIGN](https://www.invisionapp.com/blog/fighting-perfectionism-ux-design/?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=60145806&_hsenc=p2ANqtz-9aiK5pYY5btte6KyixOFtMC93-sy4GEPxWAWF9UtHp2GDMh9YGkJ08oMRFTmm4KCP9M8hvZc9t8nHEUa9Nqk57gBIy2A&_hsmi=60145806)
