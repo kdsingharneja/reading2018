@@ -9,6 +9,8 @@
 
 [Hard Thing About Hard Things ~ Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
+[Design Sprint](http://shop.oreilly.com/product/0636920038573.do)
+
 ## Articles
 [Material Design for Enterprise Apps](http://bradfrost.com/blog/post/atomic-web-design/)  
 
