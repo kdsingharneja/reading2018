@@ -11,6 +11,12 @@
 
 [Design Sprint ~ Banfield, Lombardo & Wax](http://shop.oreilly.com/product/0636920038573.do)
 
+[User Story Mapping ~ Jeff Patton](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_3?ie=UTF8&qid=1522697409&sr=8-3&keywords=user+story+mapping)  
+
+[Workplace Poker - Dan Rust](https://www.amazon.com/Workplace-Poker-Playing-Getting-Played-ebook/dp/B0105V634A/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1522697492&sr=1-1&keywords=workplace+poker)
+
+[Product Design - David Pasztor](https://uxstudioteam.com/product-design-book/)
+
 ## Articles
 [Material Design for Enterprise Apps](http://bradfrost.com/blog/post/atomic-web-design/)  
 
@@ -35,3 +41,11 @@
 [Design Systems Handbook](https://www.invisionapp.com/blog/introducing-design-systems-handbook/)
 
 [Remote Workers Are Outperforming Office Workers--Here's Why](https://www.inc.com/brian-de-haaff/3-ways-remote-workers-outperform-office-workers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYScZNz6vReaiX8aVRAiS%2Bw%3D%3D)
+
+[Explain Bitcoin to Me](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
+
+[3 Easy Steps to Increase Your Emotional Intelligence and Become a Stronger Leader](https://www.inc.com/chris-mcgoff/high-emotional-intelligence-is-critical-to-good-leadership-heres-how-to-boost-yours.html)
+
+[Jeff Patton on Fixing Agile Product Ownership](https://www.infoq.com/news/2018/03/patton-product-management)
+
+[Want to Be Seen as a True Leader? Acquire These 6 Habits](https://www.inc.com/john-eades/1-real-reason-most-people-never-become-leaders.html)
